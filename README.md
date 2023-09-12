@@ -4,6 +4,9 @@
 
 # Update History
 
+### v2.10.04 - 2023.09.12
+`add`  Event「AMFアニメ部」MAP追加\
+
 ### v2.10.03 - 2023.04.06
 `del`  所有抄谱
 `note` 配合SDHD 2.10 option做出资源调整
