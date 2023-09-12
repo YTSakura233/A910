@@ -8,7 +8,7 @@
   </netOpenName>
   <name>
     <id>100301</id>
-    <str>Test  |マップ告知1</str>
+    <str>AMFアニメ部  |マップ告知1</str>
     <data />
   </name>
   <text />
@@ -40,7 +40,7 @@
       </courseNames>
       <text />
       <image>
-        <path>CHU_info_event_test0001.dds</path>
+        <path>CHU_info_event_AMF0001.dds.dds</path>
       </image>
       <movieName>
         <id>-1</id>
