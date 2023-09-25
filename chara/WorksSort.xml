@@ -623,11 +623,6 @@
       <data />
     </StringID>
     <StringID>
-      <id>9040</id>
-      <str />
-      <data />
-    </StringID>
-    <StringID>
       <id>9050</id>
       <str />
       <data />
@@ -720,6 +715,11 @@
     <StringID>
       <id>9930</id>
       <str>WACCA (ワッカ)</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>9940</id>
+      <str>CZJTU</str>
       <data />
     </StringID>
   </SortList>
